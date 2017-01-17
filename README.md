@@ -73,6 +73,8 @@ npm install azure
 | [Traffic Manager](http://azure.microsoft.com/en-us/services/traffic-manager/)     | `npm install azure-asm-trafficManager`  |
 | [Virtual Networks](http://azure.microsoft.com/en-us/services/virtual-network/)    | `npm install azure-asm-network`   |
 | [WebSites](http://azure.microsoft.com/en-us/services/app-service/web/)            | `npm install azure-asm-website`   |
+| [MySQL](http://azure.microsoft.com/en-us/services/rdbms/mysql)                    | `npm install azure-asm-mysql`     |
+| [PostgreSQL](http://azure.microsoft.com/en-us/services/rdbms/postgresql)          | `npm install azure-asm-postgresql`|
 | &nbsp;                                                                            |                                   |
 | **Base Libraries**                                                                |                                   |
 | Common Functionality (for ASM & ARM clients generated from old code generator)    | `npm install azure-common`        |
